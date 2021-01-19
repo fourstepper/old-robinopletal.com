@@ -11,6 +11,6 @@ I generally enjoy the use of automation and provisioning tools such as Ansible a
 
 Aside from that, I try to contribute to the open-source community where I can, be it with commits, bug reports, helping the users with their software on IRC or forums and more.
 
-If you are interested to find out how this website is built, feel free to check out the sources [here](https://gitlab.com/opletalrobin/robinopletal.com). The site is basically bundled into a Docker file in CI and pushed to the repo, from where I pull it on the host server and run it behind a traefik proxy, which handles SSL termination for me. I still need to automate the deployment itself, so that every push automatically re-pulls the image and restarts the container with the fresh content.
+If you are interested to find out how this website is built, feel free to check out the sources [here](https://git.sr.ht/~fourstepper/robinopletal.com). The site is basically bundled into a Docker file in CI and pushed to the repo, from where I pull it on the host server and run it behind a traefik proxy, which handles SSL termination for me. I still need to automate the deployment itself, so that every push automatically re-pulls the image and restarts the container with the fresh content.
 
 If you have any questions regarding the blog, my work or anything at all, feel free to reach out to me via email at: me at robinopletal dot com
