@@ -67,6 +67,11 @@ weight = 2
 # weight = 3
 
 [[params.social]]
+name = "Sourcehut"
+icon = "far fa-circle"
+url = "https://sr.ht/~fourstepper/"
+
+[[params.social]]
 name = "GitLab"
 icon = "fab fa-gitlab"
 url = "https://gitlab.com/opletalrobin"
