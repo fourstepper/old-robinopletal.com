@@ -48,7 +48,7 @@ mainSections = ["posts"]
 #disableTaxoTypes = [""]
 
 # Custom CSS applied to default styles. (Path could be "static/css/")
-#customCSS = "css/custom.css"
+customCSS = "css/custom.css"
 
 # Navigation
 [[menu.main]]

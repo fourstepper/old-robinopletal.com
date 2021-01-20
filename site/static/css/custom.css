@@ -1,0 +1,18 @@
+#title {
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+/* TODO: CONSOLIDATE TITLE AND ICONS ON SAME LINE, UNLESS SMALL SCREEN */
+#mainmenu nav {
+    border-top: none;
+    border-bottom: none;
+    padding: 3px 0 3px 0;
+    text-align: left;
+}
+
+@media screen and (max-width: 800px) {
+    #title {
+        text-align: center;
+    }
+}
