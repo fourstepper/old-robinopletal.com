@@ -14,5 +14,9 @@
 @media screen and (max-width: 800px) {
     #title {
         text-align: center;
+        padding: 0 0 5px 0;
+    }
+    #mainmenu nav {
+        text-align: center;
     }
 }
