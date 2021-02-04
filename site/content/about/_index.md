@@ -7,9 +7,9 @@ Hi, I am Robin Opletal and on the internet I go by the name *fourstepper*.
 
 At my day job, I work as a UNIX Systems and Network Administrator for a smaller IT company in Prague, Czech Republic.
 
-I generally enjoy the use of automation and provisioning tools such as Ansible and have real world experience and knowledge of CI technologies, primarily GitLab CI. I also like to work with containers, primarily because of their throwaway and simplistic nature and I like to tinker with my Kubernetes Raspberry Pi 4 cluster.
+I generally enjoy the use of automation and provisioning tools such as Ansible and have real world experience and knowledge of CI technologies, primarily GitLab CI. I also like working with containers, primarily because of their throwaway and simplistic nature.
 
-Aside from that, I try to contribute to the open-source community where I can, be it with commits, bug reports, helping the users with their software on IRC or forums and more.
+Aside from that, I try to contribute to the open-source community where I can, be it with commits, bug reports, helping the users with the software or other activities.
 
 If you are interested to find out how this website is built, feel free to check out the sources [here](https://git.sr.ht/~fourstepper/robinopletal.com). The site is basically bundled into a Docker file in CI and pushed to the repo, from where I pull it on the host server and run it behind a traefik proxy, which handles SSL termination for me. I still need to automate the deployment itself, so that every push automatically re-pulls the image and restarts the container with the fresh content.
 
