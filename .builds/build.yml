@@ -6,6 +6,7 @@ environment:
   CI_REGISTRY_IMAGE: index.docker.io/fourstepper/robinopletal.com
 secrets:
   - 9c21e186-72c5-4633-b9da-5ca7faa0342a
+  - 04fc94df-f6ff-4452-a9de-cfdce6bfabdd
 packages:
   - sudo
   - apt-transport-https
