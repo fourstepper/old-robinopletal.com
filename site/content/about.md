@@ -2,6 +2,9 @@
 title: "About"
 date: 2020-12-26T17:19:04+01:00
 draft: false
+ShowToC: false
+TocOpen: false
+hidemeta: true
 ---
 Hi, I am Robin Opletal and on the internet I go by the name *fourstepper*.
 
