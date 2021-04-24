@@ -1,3 +1,4 @@
-[submodule "site/themes/hugo-vitae"]
-	path = site/themes/hugo-vitae
-	url = https://github.com/dataCobra/hugo-vitae.git
+[submodule "site/themes/PaperMod"]
+	path = site/themes/PaperMod
+	url = git@github.com:fourstepper/hugo-PaperMod.git
+        branch = master
