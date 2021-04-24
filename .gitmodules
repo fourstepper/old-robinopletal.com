@@ -1,4 +1,4 @@
 [submodule "site/themes/PaperMod"]
 	path = site/themes/PaperMod
-	url = git@github.com:fourstepper/hugo-PaperMod.git
+	url = https://github.com/fourstepper/hugo-PaperMod.git
         branch = master
