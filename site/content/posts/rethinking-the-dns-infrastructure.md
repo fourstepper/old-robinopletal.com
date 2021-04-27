@@ -1,7 +1,7 @@
 ---
 title: "Rethinking the DNS Infrastructure"
 date: 2021-04-25T17:14:50+02:00
-draft: false
+draft: true
 ---
 ### The what
 
