@@ -76,7 +76,7 @@ params:
         hiddenInSingle: true # hide on single page
 
     editPost:
-        URL: "https://git.sr.ht/~fourstepper/robinopletal.com/tree/master/item/site/content"
+        URL: "https://github.com/fourstepper/robinopletal.com/tree/main/site/content"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 
