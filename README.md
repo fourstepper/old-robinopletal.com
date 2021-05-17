@@ -1,5 +1,5 @@
 # robinopletal.com
 
-[![builds.sr.ht status](https://builds.sr.ht/~fourstepper/robinopletal.com.svg)](https://builds.sr.ht/~fourstepper/robinopletal.com?)
+[![Build](https://github.com/fourstepper/robinopletal.com/actions/workflows/build.yml/badge.svg)](https://github.com/fourstepper/robinopletal.com/actions/workflows/build.yml)
 
 This website is built with hugo and containerized in the build process. Automatic deployments are planned as well.
