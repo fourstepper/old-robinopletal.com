@@ -67,8 +67,6 @@ params:
     socialIcons:
         - name: github
           url: "https://github.com/fourstepper"
-        - name: gitlab
-          url: "https://gitlab.com/opletalrobin"
         - name: linkedin
           url: "https://www.linkedin.com/in/robin-opletal"
 
