@@ -12,7 +12,7 @@ ENV SITE_DIR '/usr/share/blog'
 # Download and install hugo
 RUN curl -L -o hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/${HUGO_BINARY}
 RUN dpkg -i hugo.deb
-RUN rm /tmp/hugo.deb
+RUN rm hugo.deb
 RUN mkdir ${SITE_DIR}
 
 WORKDIR ${SITE_DIR}
