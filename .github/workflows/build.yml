@@ -11,8 +11,8 @@ on:
 
 jobs:
   # Test the image builds and works correctly.
-  test:
-    name: Test
+  CI:
+    name: CI
     runs-on: ubuntu-latest
 
     steps:
