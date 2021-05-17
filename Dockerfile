@@ -10,10 +10,9 @@ ENV HUGO_BINARY hugo_extended_${HUGO_VERSION}_Linux-64bit.deb
 ENV SITE_DIR '/usr/share/blog'
 
 # Download and install hugo
-RUN curl -L -o hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/${HUGO_BINARY}
-RUN dpkg -i hugo.deb
-RUN rm hugo.deb
-RUN mkdir ${SITE_DIR}
+RUN curl -sL -o hugo.deb \
+    https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/${HUGO_BINARY} &&\
+    dpkg -i hugo.deb && rm hugo.deb && mkdir ${SITE_DIR}
 
 WORKDIR ${SITE_DIR}
 
