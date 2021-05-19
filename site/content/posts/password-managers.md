@@ -14,7 +14,7 @@ I have tried the following password managers over the course of three months:
 - [Password Store](https://www.passwordstore.org/) (pass)
 - [KeepassXC](https://keepassxc.org/)
 
-The main reason for the selection of these particular password managers was that that all of them operate quite differently.
+The main reason for the selection of these particular password managers was that all of them operate quite differently.
 
 ## **Bitwarden**
 
