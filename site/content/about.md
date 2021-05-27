@@ -14,6 +14,6 @@ As my day job, I work as a Linux and Network Administrator in Prague, Czech Repu
 
 ### The blog
 
-This website is built with [Hugo](https://gohugo.io/), ran in Docker and served via `Traefik`. If you would like to see any of the code, you are free to do so: https://git.sr.ht/~fourstepper/robinopletal.com
+This website is built with [Hugo](https://gohugo.io/), ran in Docker and served via `Traefik`. If you would like to see any of the code, feel free to visit: https://github.com/fourstepper/robinopletal.com
 
 If you have any questions regarding the blog, my work or anything at all, feel free to reach out to me via email at: **me at robinopletal dot com**
