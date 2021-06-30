@@ -63,4 +63,4 @@ To me, KeepassXC feels like a great middle-ground between the ease of use of Bit
 ## **Summary**
 Overall, I think all of the passwords managers mentioned are a great choice. They all offer fundamental improvements over just remembering a couple of passwords to use with ALL of one’s services (or reusing the same password for everything).
 
-If you like having a password manager accessible as a service running on the cloud, Bitwarden is a solid choice. In case you would prefer having your passwords locally, but still easily shareable and accesible cross-platform, KeepassXC is a great, secure solution. In case you feel tech-savvy, or in need of an extensible and great CLI password manager, look no further than `pass`.
+If you like having a password manager accessible as a service running in the cloud, Bitwarden is a solid choice. In case you would prefer having your passwords locally, but still easily shareable and accesible cross-platform, KeepassXC is a great, secure solution. In case you feel tech-savvy, or in need of an extensible and great CLI password manager, look no further than `pass`.
