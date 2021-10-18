@@ -18,7 +18,7 @@ Well, long story short, I sold the Mirra, got a standing desk and a stool from I
 
 Adding the chair back, I realized what I actually needed wasn’t a stool, but a chair that would fit my sitting style, so that I could comfortably alternate between standing and sitting. I looked around local online second-hand eshops, and found a Steelcase Leap v2 in good condition for a bargain (I believe it was around $150), which supports the different sitting positions I switch between on a daily. It also eliminated my back pain. However, shoulder pain and wrist pain still persisted.
 
-To help with the shoulder and wrist pain, I now alternate between two mice (the MX Master 3 and MX Vertical from Logitech) and a trackpad throughout the day, which has improved things a lot.
+To help with the shoulder and wrist pain, I now alternate between two mice (the MX Master 3 and MX Vertical from Logitech) and a trackpad throughout the day, which has improved things a lot, although things unfortunately still aren't perfect.
 
 ## Other **major** factors
 
