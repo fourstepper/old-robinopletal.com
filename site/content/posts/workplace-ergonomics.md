@@ -26,4 +26,4 @@ Other factors that helped my journey were and still are; stretching (don’t tak
 
 I would say that all of these small changes improved my experience much more than all the gear I have swapped in and out, however, I don't think it was a bad investment.
 
-If you are a person, who spends most of their day stationary in front of a desk, I highly recommend going through the process of choosing what things make you most comfortable while working, as well as incorporating small breaks during the day for light physical activity. For that, something as simple as the <link>pomodoro technique<link> could come in handy
+If you are a person who spends most of their day stationary in front of a desk, I highly recommend going through the process of choosing what things make you most comfortable while working, as well as incorporating small breaks during the day for light physical activity. For that, something as simple as the <link>pomodoro technique<link> could come in handy
