@@ -42,7 +42,7 @@ It works on the principle of either tapping or holding a key to get either the "
 
 For example, to get the number `5` written on the screen, you can hold the middle-right thumb button and press `S`. If you look closely enough, you can see that the "standard" modifiers live on the home row. This means less weird hand movement around the modifiers in the traditional bottom left corner of the keyboard. As another example, to get `CTRL+Z`, you can hold `E` and press `Z`. To type capital `I`, you can hold `T` and press `I`.
 
-As you can probably tell, the combination of potential layers is endless, and in those layers some keys don't have to just output a single characters; even entire sequences or combinations or characters is possible.
+As you can probably tell, the combination of potential layers is endless, and in those layers some keys don't have to just output a single characters; even entire sequences or combinations or characters are possible.
 
 If you are wondering how you can use a 34 key keyboard with this layout, it's quite simple; the outer-most thumb keys are grouped into a double-press of the thumb keys on that side (for example, to hit `Escape`, I can just hit `Space` and `Tab`).
 
