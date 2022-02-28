@@ -16,7 +16,20 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Robin Opletal
   description: "Robin Opletal's space"
-  keywords: [Blog, Website, Automation, Linux, Security]
+  keywords:
+    [
+      Blog,
+      Website,
+      Automation,
+      Linux,
+      Security,
+      Ergonomics,
+      Keyboards,
+      Split,
+      Terraform,
+      DevOps,
+      IaC,
+    ]
   author: Me
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
