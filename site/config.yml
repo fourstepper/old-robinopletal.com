@@ -31,7 +31,7 @@ params:
       IaC,
     ]
   author: Me
-  DateFormat: "January 2, 2006"
+  DateFormat: "2 January, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
