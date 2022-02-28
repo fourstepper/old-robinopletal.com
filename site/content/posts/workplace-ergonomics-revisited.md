@@ -6,7 +6,7 @@ draft: false
 
 ## Revisited
 
-In the [first article](workplace-ergonomics) of mine on ergonomics, I have written about some steps I have taken in the past to help me work at a computer more comfortably as a software (or rather, an infrastructure) engineer full-time.
+In the [first article](../workplace-ergonomics) of mine on ergonomics, I have written about some steps I have taken in the past to help me work at a computer more comfortably as a software (or rather, an infrastructure) engineer full-time.
 
 We have gone through various topics, such as what table and chair that I am using, which mice I have tried and so on. Most of the gear that I have mentioned in that article I still do use, although I have added a few more pieces to my daily arsenal.
 
@@ -36,7 +36,7 @@ There are essentially two reasons that made me move from the Corne to the Sweep:
 
 For reference, this is how the Miryoku layout looks like:
 
-![miryoku](../../static/images/miryoku.png)
+![miryoku](../static/images/miryoku.png)
 
 It works on the principle of either tapping or holding a key to get either the "alpha" key code, or to access another layer with a different set of keycodes.
 
