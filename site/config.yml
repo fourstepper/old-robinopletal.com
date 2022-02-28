@@ -80,7 +80,7 @@ params:
     - name: email
       url: "mailto:me@robinopletal.com"
     - name: matrix
-      url: "https://matrix.to/#/@fourstepper:matrix.robinopletal.com"
+      url: "https://matrix.to/#/@fourstepper:robinopletal.com"
     - name: github
       url: "https://github.com/fourstepper"
     - name: linkedin
