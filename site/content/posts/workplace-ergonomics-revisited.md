@@ -36,7 +36,7 @@ There are essentially two reasons that made me move from the Corne to the Sweep:
 
 For reference, this is how the Miryoku layout looks like:
 
-![miryoku](../static/images/miryoku.png)
+![miryoku](../../images/workplace-ergonomics-revisited/miryoku.png)
 
 It works on the principle of either tapping or holding a key to get either the "alpha" key code, or to access another layer with a different set of keycodes.
 
