@@ -35,7 +35,7 @@ params:
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
-  ShowShareButtons: true
+  # ShowShareButtons: true
   ShowPostNavLinks: true
   # ShowBreadCrumbs: true
   ShowToC: true
