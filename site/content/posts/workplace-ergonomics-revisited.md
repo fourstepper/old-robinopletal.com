@@ -16,7 +16,7 @@ The changes in my keyboard lineup have been quite a big bigger, though.
 
 ## The boards of keys
 
-A major thing that I have altered since the last post are a couple of different **custom made, split keyboards**, most notably the [**Corne keyboard**](https://github.com/foostan/crkbd) and the [**Ferris Sweep**](https://github.com/davidphilipbarr/Sweep).
+A major thing that I have adopted since the last post are a couple of different **custom made, split keyboards**, most notably the [**Corne keyboard**](https://github.com/foostan/crkbd) and the [**Ferris Sweep**](https://github.com/davidphilipbarr/Sweep).
 
 To get either of these, you have to either:
 
