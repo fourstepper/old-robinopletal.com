@@ -117,3 +117,7 @@ menu:
       name: about
       url: /about/
       weight: 20
+    - identifier: hire-me
+      name: hire me!
+      url: /hire-me/
+      weight: 30
