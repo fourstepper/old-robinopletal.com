@@ -7,9 +7,9 @@ TocOpen: false
 hidemeta: true
 ---
 
-I would love to build, maintain or consult your existing or new infrastructure!
+**I would love to help you build, maintain or consult your existing or new infrastructure!**
 
-To get in touch, send me an e-mail to me@robinopletal.com or choose your preferred method from the icons on the [homepage](../) and let's talk about your exact use-case in more detail!
+To get in touch, send me an e-mail to me@robinopletal.com or choose your preferred communication method from the icons on the [homepage](../) and let's talk about your exact use-case in more detail!
 
 **I have experience building out and running projects of all sizes**, from simple home networks, through mid-size business networks and services all the way up to enterprise-level, multi-tenant cloud environments.
 
