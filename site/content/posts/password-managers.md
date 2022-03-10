@@ -1,5 +1,5 @@
 ---
-title: "Password managers"
+title: "Password managers - Bitwarden vs pass vs KeepassXC"
 date: 2020-12-26T17:29:29+01:00
 draft: false
 ---
