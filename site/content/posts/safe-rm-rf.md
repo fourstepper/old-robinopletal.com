@@ -29,7 +29,8 @@ rm -rf ../bar/*
 or
 ```
 cd foo
-rm -rf bar/*```
+rm -rf bar/*
+```
 
 ## Why?
 
