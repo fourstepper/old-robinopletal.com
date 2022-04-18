@@ -87,6 +87,8 @@ params:
       url: "https://matrix.to/#/@fourstepper:robinopletal.com"
     - name: github
       url: "https://github.com/fourstepper"
+    - name: mastodon
+      url: "https://mastodon.social/@fourstepper"
     - name: linkedin
       url: "https://www.linkedin.com/in/robin-opletal"
     - name: twitter
