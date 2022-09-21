@@ -72,6 +72,8 @@ If you are into edge, IoT or other similar workloads, make sure to [check it out
 
 ### Linus Torvalds in conversation with Dirk Hohndel, Chief Open Source Officer, Cardano Foundation
 
+![==Image of Linus Torvalds talking to Dirk Hohndel==](../../images/ossummiteu2022/linus-with-dirk.jpeg)
+
 An interesting but rather short conversation of Linus with Dirk Hohndel from the Cardano Foundation.
 
 The two most interesting topics included:
