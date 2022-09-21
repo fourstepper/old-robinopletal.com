@@ -108,7 +108,7 @@ Unfortunately, due to my flight schedule I wasn't able to attend any talks on Fr
 
 Instead, here is a picture I took of the Liffey River in Dublin!
 
-![==Image of the view on the Liffey river==](../../images/ossummiteu2022/dublin-riverview.jpeg)
+![==Image of the view on the Liffey river==](../../images/ossummiteu2022/dublin-riverview.jpg)
 
 ## Thank you!
 
