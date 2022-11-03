@@ -24,7 +24,7 @@ It was fast enough (I had 50/5 Mbps connectivity, so at least the Wireguard part
 
 For some unknown reason, I love learning and adopting new stuff, especially the stuff that strikes me as cool.
 
-One day, I came across yet another article from soneone talking about how cool Tailscale was. I've heard about it before, but haven't given it too much thought then, and just a bit more thought this time, even if I could appreciate the simplicity and *coolness* of the solution.
+One day, I came across yet another article talking about how cool Tailscale was. I've heard about it before, didn't given it much thought, not then, not now, even if I could appreciate the simplicity and *coolness* of the solution.
 
 "My VPN remote access setup works well enough, so why change it?"
 
@@ -135,7 +135,7 @@ I feel there are still some pitfalls with this setup, most of which aren't techn
 The biggest ones from my point of view are:
 
 - Tailscale is a proprietary Software-as-a-Service dependency over which I have no control
-- The Tailscale client on proprietary platforms (Windows, MacOS and Linux) is proprietary as well
+- The Tailscale client on proprietary platforms (Windows, MacOS and iOS) is proprietary as well
 - I have to rely on a third-party identity provider (custom SSO providers are available for Enterprise customers only)
 
 I've decided these problems weren't big enough issues for me, but they may be for you.
