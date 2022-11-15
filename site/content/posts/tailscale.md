@@ -2,6 +2,7 @@
 title: "Tailscale - the magic mesh overlay network"
 date: 2022-11-03T20:12:21+02:00
 draft: false
+tags: ["reviews", "VPNs", "security", "software"]
 ---
 
 ## Preface

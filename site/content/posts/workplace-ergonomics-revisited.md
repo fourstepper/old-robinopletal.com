@@ -2,6 +2,7 @@
 title: "Workplace ergonomics - Revisited"
 date: 2022-02-28T20:12:21+02:00
 draft: false
+tags: ["ergonomics", "keyboards", "hardware"]
 ---
 
 ## Revisited

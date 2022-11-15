@@ -1,5 +1,6 @@
 ---
 title: "Dealing with a Google Kubernetes Engine Cluster Outage"
+tags: ["postmortems", "kubernetes", "heureka.group"]
 date: 2022-03-31T09:25:21+02:00
 draft: false
 ---

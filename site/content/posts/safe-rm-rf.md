@@ -2,6 +2,7 @@
 title: "Safe rm -rf *"
 date: 2022-03-16T20:12:21+02:00
 draft: false
+tags: ["tips", "software", "cli"]
 ---
 
 Every once in a while, you have to delete all files and folders recursively.

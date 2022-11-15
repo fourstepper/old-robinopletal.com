@@ -2,6 +2,7 @@
 title: "Workplace ergonomics"
 date: 2021-09-25T20:12:21+02:00
 draft: false
+tags: ["ergonomics", "keyboards", "hardware"]
 ---
 
 ## Preface

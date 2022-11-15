@@ -2,6 +2,7 @@
 title: "Password managers - Bitwarden vs pass vs KeepassXC"
 date: 2020-12-26T17:29:29+01:00
 draft: false
+tags: ["reviews", "password-managers", "security"]
 ---
 
 Over the past few months I have taken some time to tinker with a few password managers to find out which suits my needs the best and to find out the pros and cons of each one of them.

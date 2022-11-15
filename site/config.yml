@@ -13,7 +13,7 @@ minify:
   minifyOutput: true
 
 params:
-  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  env: production
   title: Robin Opletal
   description: "Robin Opletal's space"
   keywords:
@@ -29,10 +29,11 @@ params:
       Security,
       Ergonomics,
       Keyboards,
-      Split,
       Terraform,
+      VPN,
       DevOps,
       IaC,
+      Infrastructure-as-code,
     ]
   author: Me
   DateFormat: "2 January, 2006"
@@ -85,10 +86,10 @@ params:
       url: "mailto:me@robinopletal.com"
     - name: matrix
       url: "https://matrix.to/#/@fourstepper:matrix.org"
-    - name: github
-      url: "https://github.com/fourstepper"
     - name: mastodon
       url: "https://mastodon.social/@fourstepper"
+    - name: github
+      url: "https://github.com/fourstepper"
     - name: linkedin
       url: "https://www.linkedin.com/in/robin-opletal"
     - name: twitter
@@ -114,6 +115,10 @@ menu:
     - identifier: posts
       name: posts
       url: /posts/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
       weight: 10
     - identifier: about
       name: about
