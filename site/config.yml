@@ -85,10 +85,10 @@ params:
       url: "mailto:me@robinopletal.com"
     - name: matrix
       url: "https://matrix.to/#/@fourstepper:matrix.org"
-    - name: mastodon
-      url: "https://mastodon.social/@fourstepper"
     - name: github
       url: "https://github.com/fourstepper"
+    - name: mastodon
+      url: "https://mastodon.social/@fourstepper"
     - name: linkedin
       url: "https://www.linkedin.com/in/robin-opletal"
     - name: twitter
@@ -108,23 +108,18 @@ params:
     home:
       - HTML
       - RSS
-      - JSON
 
 menu:
   main:
-    - identifier: search
-      name: search
-      url: /search/
+    - identifier: posts
+      name: posts
+      url: /posts/
       weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
-      weight: 20
-    - identifier: about-me
-      name: about me
+    - identifier: about
+      name: about
       url: /about/
-      weight: 30
+      weight: 20
     - identifier: hire-me
       name: hire me!
       url: /hire-me/
-      weight: 40
+      weight: 30
