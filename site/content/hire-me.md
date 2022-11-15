@@ -7,13 +7,11 @@ TocOpen: false
 hidemeta: true
 ---
 
-**I would love to help you build, maintain or consult your existing or new infrastructure!**
-
-To get in touch, send me an e-mail to me@robinopletal.com or choose your preferred communication method from the icons on the [homepage](../) and let's talk about your exact use-case in more detail!
+**I would love to help you build, maintain or consult your existing or up and coming infrastructure!**
 
 **I have experience building out and running projects of all sizes**, from simple home networks, through mid-size business networks and services all the way up to enterprise-level, multi-tenant cloud environments.
 
-Some example services, tools and platforms I am comfortable using:
+Some example services, tools and platforms I am comfortable using and running:
 
 1. **Tools, technologies and platforms**
     - Docker
