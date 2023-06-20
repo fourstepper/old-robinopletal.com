@@ -12,9 +12,9 @@ Specifically, Linux on the desktop.
 
 More specifically, Linux on the desktop, even for people that think that they might be missing out on something their current environment provides them.[^1]
 
-The reason I call this blog post "Sane Linux Desktop" is for two reasons:
-- Linux desktop will not drive you insane
-- I believe that you don't have to be insane at Linux (or computers in general) to use Linux as your operating system
+The reason I call this blog post "Sane Linux Desktop" is twofold:
+1. Linux desktop will not drive you insane
+2. I believe that you don't have to be insane at Linux (or computers in general) to use Linux as your operating system
 
 The goal of today's blog post is to show that Linux and supported applications can work well, without any extreme tinkering, for most people and most use-cases.
 
