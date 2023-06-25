@@ -67,9 +67,11 @@ delta(timestamp(vector(1))[$__range:]) / 3600
 avg(avg_over_time(gcp_project_cost{project="Kubernetes"}[$__range])) by (environment) * $RANGE_HOURS_COUNT
 ```
 
-_"Wait, isn't this the same query from the example above?"_
+_"Wait, isn't this the same query from the first example?"_
 
-Yeah, it is. :) Anywayyy....
+Yeah, it is. :) And it's exactly this query that gets us the number of hours in any selected time range.
+
+Anyway... here come the results
 
 Visualization (24 hours):
 
