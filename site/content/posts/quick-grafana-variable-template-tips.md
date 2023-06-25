@@ -9,7 +9,7 @@ Mostly for my sake (as documentation of sorts), I decided to post two quick vari
 
 ### Query result template variable from Prometheus
 
-If we try to use a query result type in Grafana from Prometehus metrics, by default, we end up with a value field that looks something like this:
+If we try to use a query result type in Grafana from Prometheus metrics, by default, we end up with a value field that looks something like this:
 
 ```bash
 # Query
