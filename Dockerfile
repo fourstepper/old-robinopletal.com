@@ -19,11 +19,10 @@ COPY site ${WORKDIR}
 
 RUN hugo -d /src
 
-FROM docker.io/nginx
+FROM nginxinc/nginx-unprivileged
 
-RUN rm -rf /usr/share/nginx/html
 COPY --from=build /src /usr/share/nginx/html
 
 COPY nginx/default.conf /etc/nginx/conf.d
-EXPOSE 1313
+EXPOSE 8080
 CMD ["nginx", "-g", "daemon off;"]
