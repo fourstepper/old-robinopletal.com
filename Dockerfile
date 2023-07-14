@@ -1,7 +1,7 @@
-FROM debian:bookworm
+FROM docker.io/debian:bookworm as build
 
 RUN apt-get -qq update \
-	&& DEBIAN_FRONTEND=noninteractive apt-get -qq install -y --no-install-recommends libstdc++6 python3-pygments git ca-certificates asciidoc curl \
+	&& DEBIAN_FRONTEND=noninteractive apt-get -qq install -y --no-install-recommends ca-certificates curl \
 	&& rm -rf /var/lib/apt/lists/*
 
 # Configuration variables
@@ -14,16 +14,16 @@ RUN curl -sL -o hugo.deb \
     https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/${HUGO_BINARY} &&\
     dpkg -i hugo.deb && rm hugo.deb && mkdir ${SITE_DIR}
 
-WORKDIR ${SITE_DIR}
+WORKDIR /build
+COPY site ${WORKDIR}
 
-COPY site/ ${SITE_DIR}
+RUN hugo -d /src
 
-# Expose default hugo port
+FROM docker.io/nginx
+
+RUN rm -rf /usr/share/nginx/html
+COPY --from=build /src /usr/share/nginx/html
+
+COPY nginx/default.conf /etc/nginx/conf.d
 EXPOSE 1313
-
-# Automatically build site
-ONBUILD RUN hugo -d /usr/share/nginx/html/
-
-# By default, serve site
-ENV HUGO_BASE_URL https://robinopletal.com
-CMD hugo server -b ${HUGO_BASE_URL} --appendPort=false --bind=0.0.0.0
+CMD ["nginx", "-g", "daemon off;"]
