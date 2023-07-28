@@ -84,14 +84,14 @@ params:
   socialIcons:
     - name: email
       url: "mailto:me@robinopletal.com"
-    - name: mastodon
-      url: "https://mastodon.social/@fourstepper"
     - name: matrix
       url: "https://matrix.to/#/@fourstepper:matrix.org"
     - name: gitea
       url: "https://codeberg.org/fourstepper/"
     - name: github
       url: "https://github.com/fourstepper"
+    - name: mastodon
+      url: "https://mastodon.social/@fourstepper"
     - name: linkedin
       url: "https://www.linkedin.com/in/robin-opletal"
 
