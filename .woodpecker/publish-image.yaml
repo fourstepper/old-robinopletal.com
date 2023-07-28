@@ -3,6 +3,8 @@ when:
     # don't run on pull requests
     - push
     - manual
+  path:
+    include: [ 'Dockerfile', '.woodpecker/*', 'site/*', '.gitmodules', 'nginx/*' ]
 
 steps:
   publish-image-branch:
