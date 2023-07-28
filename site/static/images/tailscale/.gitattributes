@@ -1,3 +1,0 @@
-coordination.png filter=lfs diff=lfs merge=lfs -text
-derp.png filter=lfs diff=lfs merge=lfs -text
-mesh.png filter=lfs diff=lfs merge=lfs -text
