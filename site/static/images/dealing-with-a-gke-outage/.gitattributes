@@ -1,0 +1,2 @@
+gke-logo.png filter=lfs diff=lfs merge=lfs -text
+opa-logo.webp filter=lfs diff=lfs merge=lfs -text
