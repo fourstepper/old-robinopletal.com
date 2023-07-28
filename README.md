@@ -8,5 +8,3 @@ This website is built with hugo and containerized in the build process. Automati
 
 1. Download Hugo, either via distribution package or from releases of the `hugo` project on Github
 2. Run `hugo server -b http://localhost -D`
-
-## testing conditional in CI
