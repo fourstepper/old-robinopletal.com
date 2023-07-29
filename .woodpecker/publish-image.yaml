@@ -4,7 +4,7 @@ when:
     - push
     - manual
   path:
-    include: [ 'Dockerfile', '.woodpecker/*', 'site/*', '.gitmodules', 'nginx/*' ]
+    include: [ 'Dockerfile', '.woodpecker/**', 'site/**', '.gitmodules', 'nginx/**' ]
 
 steps:
   publish-image-branch:
