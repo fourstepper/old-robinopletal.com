@@ -43,11 +43,11 @@ params:
 
   # ShowShareButtons: true
   ShowPostNavLinks: true
-  # ShowBreadCrumbs: true
+  ShowBreadCrumbs: false
   ShowToC: true
-  TocOpen: true
+  TocOpen: false
   disableSpecial1stPost: false
-  disableScrollToTop: true
+  disableScrollToTop: false
   comments: false
   hidemeta: false
   hideSummary: false
