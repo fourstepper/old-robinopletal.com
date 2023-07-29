@@ -39,6 +39,7 @@ params:
   DateFormat: "2 January, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
+  hideFooter: true
 
   # ShowShareButtons: true
   ShowPostNavLinks: true
