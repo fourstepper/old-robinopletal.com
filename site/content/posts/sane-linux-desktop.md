@@ -5,7 +5,12 @@ draft: false
 tags: ["linux", "desktop"]
 ---
 
+Let's look at the Linux desktop from a pragmatic, daily-use point of view
+
+<!--more-->
+
 ## Preface
+
 Today, I would like to talk about Linux.
 
 Specifically, Linux on the desktop.
@@ -13,6 +18,7 @@ Specifically, Linux on the desktop.
 More specifically, Linux on the desktop, even for people that think that they might be missing out on something their current environment provides them.[^1]
 
 The reason I call this blog post "Sane Linux Desktop" is twofold:
+
 1. Linux desktop will not drive you insane
 2. I believe that you don't have to be insane at Linux (or computers in general) to use Linux as your operating system
 
@@ -23,17 +29,21 @@ The goal of today's blog post is to show that Linux and supported applications c
 So, without any further ado, let's jump right into it!
 
 ## The basics
+
 Before we start installing tons of applications for all different use-cases, let's start with the basics.
 
 We need:
+
 - a Linux distribution (if you don't know what a distribution is, don't worry about it)
 - we need a web browser
 - and we need a source of applications
 
 ### Linux distribution
+
 There are many Linux distributions out there, and today, we will choose **Fedora**[^2] out of all of them.
 
 The reasons for which I chose Fedora are the following:
+
 - It provides an easy to use graphical installer
 - It ships new software and features relatively quickly while remaining stable
 - Upgrading Fedora is reliable and doesn't require any special technical knowledge
@@ -72,6 +82,7 @@ I wrote a whole [blog post on password managers](https://robinopletal.com/posts/
 - it has a seamless import/export mechanism paired with guides for backup purposes, as well as for importing your current passwords
 
 ### Source of applications
+
 In Fedora, and on most Linux distributions in general, there is a plethora of ways to install software.
 
 As we will be primarily installing graphical applications today, let's install them through the Fedora app store, called simply `Software`.
@@ -93,6 +104,7 @@ Now let's go over some programs that you might need to do your day-to-day comput
 Most, if not all of us, will do some kind of office work on our computer.
 
 ### E-mail
+
 For your e-mail on the desktop, I would recommend using **Thunderbird**, which you can find it in `Software`. Other available clients are much less mature and feature-full than Thunderbird.
 
 Setting up your account in Thunderbird should be very easy with their built-in account wizard.
@@ -128,6 +140,7 @@ Only if you are a heavy, HEAVY power-user of Excel, for example, you might find 
 ##### Online alternatives
 
 There are two main alternatives to OnlyOffice available online:
+
 - Microsoft Office 365 online
 - Google Documents
 
@@ -140,6 +153,7 @@ Here, I wanted to give a short, honorable mention to LibreOffice. Even though it
 ## Company chat applications
 
 If you are in virtually any company today, you are likely using one of the following applications to communicate with your colleagues:
+
 - Slack
 - Microsoft Teams
 - Mattermost
@@ -152,15 +166,16 @@ All of the above-mentioned apps are available on Linux and are available from th
 Most videoconferencing solutions today have a web-browser native version and if they do, it's usually the best way to use that platform.
 
 This includes:
+
 - Google Meet
-	- works in Firefox out of the box
+  - works in Firefox out of the box
 - Zoom
-	- works in Firefox out of the box
+  - works in Firefox out of the box
 - Discord
-	- works including audio&camera in the desktop application, for screensharing, Firefox is a better fit
+  - works including audio&camera in the desktop application, for screensharing, Firefox is a better fit
 - Teams
-	- works in a Chromium-based[^3] browser - by default, only audio & video works, however screensharing is an easy fix
-	- for screensharing, open [chrome://flags/#ozone-platform-hint](chrome://flags/#ozone-platform-hint) in your Chromium-based browser and choose "Wayland" from the drop-down menu
+  - works in a Chromium-based[^3] browser - by default, only audio & video works, however screensharing is an easy fix
+  - for screensharing, open [chrome://flags/#ozone-platform-hint](chrome://flags/#ozone-platform-hint) in your Chromium-based browser and choose "Wayland" from the drop-down menu
 
 ## Media (audio and video)
 
@@ -190,12 +205,14 @@ Please read [this part of the Fedora wiki](https://fedoraproject.org/wiki/Firefo
 ### Now that we have that out of the way...
 
 **Videos**
+
 - Netflix works
 - YouTube works
 - ... virtually any video on the internet works
 - VLC media player is available from `Software` and can play back any local videos and music
 
 **Music**
+
 - Spotify works out of the box and is available from `Software`
 - Lollypop is a pretty, Free and open-source dedicated music application for any local music collection
 
@@ -251,6 +268,6 @@ I hope it will serve you well.
 
 Thanks for reading, and see you in the next post!
 
- [^1]: Technically, they might be right. But most people, in my opinion and experience, are just scared of making the switch because they "heard" there are problems.
- [^2]: I feel like that's important to say here that the choice of distribution matters quite little in the general scheme of things - most of Linux distributions differ only very slightly, and all of the major ones are technically a good choice.
- [^3]: Chromium is the base open-source engine used by a few browsers, such as Chrome, Brave, Edge, Opera and others
+[^1]: Technically, they might be right. But most people, in my opinion and experience, are just scared of making the switch because they "heard" there are problems.
+[^2]: I feel like that's important to say here that the choice of distribution matters quite little in the general scheme of things - most of Linux distributions differ only very slightly, and all of the major ones are technically a good choice.
+[^3]: Chromium is the base open-source engine used by a few browsers, such as Chrome, Brave, Edge, Opera and others

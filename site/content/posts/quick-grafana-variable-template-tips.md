@@ -5,6 +5,10 @@ draft: false
 tags: ["grafana", "monitoring"]
 ---
 
+If you extensively work with Grafana dashboards, you might need these sooner or later
+
+<!--more-->
+
 Mostly for my sake (as documentation of sorts), I decided to post two quick variable templating Grafana tips today.
 
 ### Query result template variable from Prometheus
