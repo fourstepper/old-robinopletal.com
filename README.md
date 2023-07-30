@@ -1,6 +1,6 @@
 # robinopletal.com
 
-![Image](https://ci.codeberg.org/api/badges/12480/status.svg)
+[![status-badge](https://ci.codeberg.org/api/badges/12480/status.svg)](https://ci.codeberg.org/repos/12480)
 
 This website is built with hugo and containerized in the build process. Automatic deployments are planned as well, for now deployed using Ansible to a Hetzner Cloud VPS.
 
