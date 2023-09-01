@@ -1,6 +1,8 @@
 # robinopletal.com
 
-[![status-badge](https://ci.codeberg.org/api/badges/12480/status.svg)](https://ci.codeberg.org/repos/12480)
+This is my old website's code. New website's code is available [here](https://codeberg.org/fourstepper/robinopletal.com/)
+
+---
 
 This website is built with hugo and containerized in the build process. Automatic deployments are planned as well, for now deployed using Ansible to a Hetzner Cloud VPS.
 
